@@ -28,7 +28,15 @@ function App() {
     //     Click on the Vite and React logos to learn more
     //   </p>
     // </div>
-    <h1>Dionysus</h1>
+    <div className='App'>
+      <h1>Cavalo Festeiro</h1>
+      <div>
+        <input type='text' className='nome'></input>
+        <button className='send'>Convidar</button>
+      </div>
+      <div className='convidados'></div>
+
+    </div>  
   )
 }
 

@@ -1,0 +1,49 @@
+#root {
+  /* font-family: Inter, Avenir, Helvetica, Arial, sans-serif; */
+  /* max-width: 1280px;
+  margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+  /* background-color: #fffad1; */
+  background-color: #fdf5de;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 20vh;
+}
+
+.app {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display:flex;
+  place-items: center;
+}
+
+h1 {
+  color: #344D67;
+}
+
+.send {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #ADE792;
+  height: 100%;
+}
+
+.nome {
+  height: 100%;
+  padding: 0;
+  padding-left: 10px;
+  background-color: #F3ECB0;
+  border: 0;
+  font-size: 1em;
+}
+
+.convidados {
+  background-color: #F3ECB0;
+  height: 40vh;
+  max-width: 293px;
+}
