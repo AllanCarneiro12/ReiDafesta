@@ -10,7 +10,7 @@ function App() {
       <h1>Cavalo Festeiro</h1>
       <div>
         <input type='text' className='nome'></input>
-        <button className='send'>Convidar</button>
+        <button className='botao'>Convidar</button>
       </div>
       <div className='convidados'></div>
 
